@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -e
+
+tmpfile=/tmp/copying_version.tmp
+url=http://github.com
+
+
+rm -f $tmpfile
+curl -O $url >> /dev/null
+
+exit 0
