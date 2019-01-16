@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -e
+
+echo
+echo "Acknowledgement Copying"
+echo "Version: 0.0.1"
+echo
+echo "Copyright (c) 2019 Shota Shimazu"
+echo "Licensed under the MIT, see LICENSE for detail."
+echo
+
+exit 0
